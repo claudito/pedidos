@@ -100,13 +100,7 @@ php artisan migrate:fresh --seed
 En una terminal:
 
 ```bash
-php artisan serve
-```
-
-En otra terminal:
-
-```bash
-npm run dev
+composer run dev
 ```
 
 La aplicacion quedara disponible en:
